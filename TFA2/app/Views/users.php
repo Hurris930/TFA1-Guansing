@@ -1,3 +1,4 @@
+<!-- users.php -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,7 +56,7 @@
                             <th>#</th>
                             <th>Username</th>
                             <th>Full Name</th>
-                            <th>Role</th>
+                            <th>Created At</th>
                         </tr>
                     </thead>
 
@@ -66,8 +67,8 @@
                                 <td class="usersUsername"><?= esc($user['username']) ?></td>
                                 <td><?= esc($user['full_name']) ?></td>
                                 <td>
-                                    <span class="usersRole">
-                                        <?= esc($user['role']) ?>
+                                     <span class="usersRole">
+                                        <?= esc($user['created_at']) ?>
                                     </span>
                                 </td>
                             </tr>
