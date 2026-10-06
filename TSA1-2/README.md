@@ -94,10 +94,10 @@ The CSS and JavaScript source copies under `app/Views/assets` match the browser-
 - Profile page: add screenshot here
 - About page: add screenshot here
 
-## Submission links
+## Links
 
-- GitHub repository: `https://github.com/Hurris930/TFA1-Guansing`
-- Hosted application: add hosted application link here
+- GitHub repository: [TSA1-2 Repository](https://github.com/Hurris930/TFA1-Guansing)
+- Hosted application: [TSA1-2 Site](https://guansing-tsa.infinityfree.me/)
 
 ## Developer
 
